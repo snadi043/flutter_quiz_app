@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:quiz_app/start_screen.dart';
 import 'package:quiz_app/questions_screen.dart';
 
-const color1 = Color.fromARGB(255, 45, 0, 122);
-const color2 = Color.fromARGB(255, 8, 0, 32);
+const color1 = Color.fromARGB(255, 67, 0, 182);
+const color2 = Color.fromARGB(255, 34, 19, 97);
 
 const beginAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
