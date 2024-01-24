@@ -29,6 +29,7 @@ class StartScreen extends StatelessWidget {
             style: OutlinedButton.styleFrom(
                 foregroundColor: const Color.fromARGB(255, 252, 252, 252),
                 textStyle: const TextStyle(fontSize: 18),
+                side: const BorderSide(color: Colors.transparent),
                 padding: const EdgeInsets.only(
                     top: 15, bottom: 15, left: 10, right: 10)),
             onPressed: startQuiz,
