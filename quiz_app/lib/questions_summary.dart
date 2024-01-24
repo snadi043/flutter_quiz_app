@@ -15,7 +15,7 @@ class QuestionsSummary extends StatelessWidget {
             return Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
               Align(
                 child: CircleAvatar(
-                  backgroundColor: const Color.fromARGB(255, 233, 106, 255),
+                  backgroundColor: const Color.fromARGB(255, 233, 105, 255),
                   radius: 15,
                   child: Text(
                     ((data['question_index'] as int) + 1).toString(),
